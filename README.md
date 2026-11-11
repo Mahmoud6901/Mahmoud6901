@@ -2,7 +2,7 @@
 
 **Senior GIS Developer** in Riyadh, Saudi Arabia. I build enterprise and web GIS applications with the Esri ArcGIS platform, Python, and a .NET / Angular stack.
 
-[LinkedIn](https://www.linkedin.com/in/mahmoud-adel-658a43130/)
+[LinkedIn](https://www.linkedin.com/in/mahmoud-adel-gis/)
 
 ## Focus
 
